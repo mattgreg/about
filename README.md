@@ -1,5 +1,3 @@
-# Matthew Gregory
-
 Hi!
 
 I am the CEO at [Ockam](https://www.ockam.io/), where we `Build Trust` for data-in-motion.
