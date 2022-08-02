@@ -2,7 +2,7 @@
 
 Hi!
 
-I am the CEO at [Ockam](https://www.ockam.io/). We are `Building Trust` for data-in-motion.
+I am the CEO at [Ockam](https://www.ockam.io/), where we `Build Trust` for data-in-motion.
 
 Ockam has a simple developer experience and powerful primitives that orchestrate end-to-end encryption, key management, authorization policy enforcement, and mutual authentication. We are part of the zero-trust / shift left movement and our mission is to empower every developer to build appications that are secure by design.
 
