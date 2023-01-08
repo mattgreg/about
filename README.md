@@ -12,19 +12,7 @@ Join our Open Source community discussion [here](https://github.com/build-trust/
 
 Ockam is one of the 100 most popular & fastest growing open source security projects on GitHub
 
-<a
-    href="https://opensourcesecurityindex.io/"
-    target="_blank"
-    rel="noopener"
->
-    <img
-        style="width: 282px; height: 56px"
-        src="https://opensourcesecurityindex.io/badge.svg"
-        alt="Open Source Security Index - Fastest Growing Open Source Security Projects"
-        width="282"
-        height="56"
-    />
-</a>
+[![Open Source Security Index - Fastest Growing Open Source Security Projects](https://opensourcesecurityindex.io/badge.svg)](https://opensourcesecurityindex.io/)
 
 We love it when builders star the [Ockam OSS project](https://github.com/build-trust/ockam). We admire Snyk and see them as part of the Application Layer Trust movement. Here is a star history of traction between Ockam and Snyk:
 
