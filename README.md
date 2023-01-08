@@ -4,11 +4,10 @@ I am the CEO at [Ockam](https://www.ockam.io/), where we `Build Trust` for data-
 
 Ockam has a simple developer experience and powerful primitives that orchestrate end-to-end encryption, key management, authorization policy enforcement, and mutual authentication. We are part of the zero-trust / shift left movement and our mission is to empower every developer to build appications that are secure by design.
 
-We are one of the fastest growing open source project based companies. We are based in San Francisco California - but our team is remote first and spread all around the world. 
-
+We are based in San Francisco California - but our team is remote first and spread all around the world. 
 If you'd like to join our team full time, you can apply to join us [here](https://www.ockam.io/team)
 
-Join our Open Source community discussion [here](https://github.com/build-trust/ockam/discussions)
+Join our open source community discussion [here](https://github.com/build-trust/ockam/discussions)
 
 Ockam is one of the 100 most popular & fastest growing open source security projects on GitHub
 
