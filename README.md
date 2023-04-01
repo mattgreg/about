@@ -1,6 +1,6 @@
 Hi!
 
-I am the CEO at [Ockam](https://www.ockam.io/), where we `Build Trust` for data-in-motion.
+I am the CEO at [Ockam](https://www.ockam.io/), where we `Build Trust for Data-in-Motion`.
 
 Ockam has a simple developer experience and powerful primitives that orchestrate end-to-end encryption, key management, authorization policy enforcement, and mutual authentication. We are part of the zero-trust / shift left movement and our mission is to empower every developer to build appications that are secure by design.
 
@@ -13,7 +13,7 @@ Ockam is one of the 100 most popular & fastest growing open source security proj
 
 [![Open Source Security Index - Fastest Growing Open Source Security Projects](https://opensourcesecurityindex.io/badge.svg)](https://opensourcesecurityindex.io/)
 
-Another great source to look at the activity in companies that build products ontop of an open source project is [Redpoint's Open Source Index](https://redpoint.metabaseapp.com/public/dashboard/5e802588-cc2c-489c-a2f3-283d6c3cd298?category=Security)
+[Redpoint's Open Source Index](https://redpoint.metabaseapp.com/public/dashboard/5e802588-cc2c-489c-a2f3-283d6c3cd298?category=Security) is a great list of companies that build on open source.
 
 We love it when builders star the [Ockam OSS project](https://github.com/build-trust/ockam). We admire Snyk and see them as part of the Application Layer Trust movement. Here is a star history of traction between Ockam and Snyk:
 
