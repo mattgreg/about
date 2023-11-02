@@ -6,7 +6,7 @@ Ockam has a simple developer experience and powerful primitives that orchestrate
 
 Join our open source community discussion [here](https://github.com/build-trust/ockam/discussions) and/or our [Discord Group](https://discord.gg/RAbjRr3kds)
 
-Ockam is one of the top 25 most popular & fastest growing open source security repos on GitHub
+[Ockam is one of the most popular & fastest growing open source security repos on GitHub](https://github.com/build-trust/ockam)
 
 [![Open Source Security Index - Fastest Growing Open Source Security Projects](https://opensourcesecurityindex.io/badge.svg)](https://opensourcesecurityindex.io/)
 
