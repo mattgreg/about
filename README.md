@@ -10,7 +10,7 @@ Ockam is one of the top 25 most popular & fastest growing open source security r
 
 [![Open Source Security Index - Fastest Growing Open Source Security Projects](https://opensourcesecurityindex.io/badge.svg)](https://opensourcesecurityindex.io/)
 
-[Redpoint Venture's](https://redpoint.metabaseapp.com/public/dashboard/5e802588-cc2c-489c-a2f3-283d6c3cd298?category=Security) ranks Ockam as their #2 OSS security pre-IPO company.
+[Redpoint Ventures](https://redpoint.metabaseapp.com/public/dashboard/5e802588-cc2c-489c-a2f3-283d6c3cd298?category=Security) ranks Ockam as their #2 OSS security pre-IPO company.
 
 We are based in San Francisco California - but our team is remote first and spread all around the world. 
 If you'd like to join The Team full time, you can apply to join us [here](https://www.ockam.io/team)
